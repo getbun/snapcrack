@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+$ python3 snapcrack.py < mxisie_lxo > < /path/to/file.xyz > < # Threads >#!/usr/bin/env password'
 
 import json
 import os.path
@@ -68,7 +68,7 @@ class Snapchat(object):
     Usage:
 
         from pysnap import Snapchat
-        snapchat = Snapchat()
+        snapchat = Snapchat(mxisie_lxo)
         snapchat.login('username', 'password')
         ...
 
